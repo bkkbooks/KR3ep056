@@ -1,0 +1,113 @@
+canonical_identifier: bkk:krp/KR3ep056/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep056/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 王應震要訣
+  identifiers:
+    krp: KR3ep056
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep056.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep056_000-jc.yaml, hash: 'sha256:cc6d745e6ec0d3aa6a9332f5f2d4d987cb824f2345f66bc13b14cb21d5a473a5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep056_000-jc.markers.yaml, hash: 'sha256:62c42f1ccadec1c77fd0e84b8fc086fff1c805128c5870daa3532c3059fe56c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 18912
+  label: 王震云先生診視脈案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d2
+    span:
+    - body
+    - 9
+    - 3014
+  label: 一王應震先生四十四字要訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d3
+    span:
+    - body
+    - 3014
+    - 3124
+  label: 二王應震先生示子孫慎醫歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d4
+    span:
+    - body
+    - 3124
+    - 3197
+  label: 三望聞問切
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d5
+    span:
+    - body
+    - 3197
+    - 3229
+  label: 四四大家
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d6
+    span:
+    - body
+    - 3229
+    - 4191
+  label: 五辨寒熱虛實損脈法必要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d7
+    span:
+    - body
+    - 4191
+    - 4529
+  label: 六湯論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d8
+    span:
+    - body
+    - 4529
+    - 6652
+  label: 七診視脈案方法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep056_jc_000-d2d9
+    span:
+    - body
+    - 6652
+    - 18912
+  label: 云間程氏紹南先生醫案
+  type: section
+  level: 2
+hash: sha256:861be4f417b807651169f73baa14f6f1869aede76d2dc85fa1d2582f1c4ecb48
