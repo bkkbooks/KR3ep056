@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep056_000.yaml, hash: 'sha256:6dd828b45df2f1b94d4ade82fc55d81b77928fee165a0af39f178d2f0275cee8'}
+  - {seq: 0, filename: KR3ep056_000.yaml, hash: 'sha256:cc6d745e6ec0d3aa6a9332f5f2d4d987cb824f2345f66bc13b14cb21d5a473a5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep056_000.markers.yaml, hash: 'sha256:b558784d8095debd047588b18ce93c7d3962153895c0e32cfc4b694b595266b4'}
+  - {seq: 0, role: markers, filename: assets/KR3ep056_000.markers.yaml, hash: 'sha256:794ce71524af9cba28bcc2ce7dcff4ddf1decf2afbb5ac9a4c6cb3b03115529d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -110,7 +110,4 @@ table_of_contents:
   label: 云間程氏紹南先生醫案
   type: section
   level: 2
-hash: sha256:c646054843b9039c521c260343e9f1dfd1b9a8f7153585e54bbc006b9410698d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d3ff47da494b00d5af052be974c46b229afc2965671b72a47552d6b6f7f1a7ce
